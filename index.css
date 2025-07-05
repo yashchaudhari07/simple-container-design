@@ -1,0 +1,17 @@
+.main-div{
+    height: 200px;
+    width: 400px;
+    background-color: black;
+    margin: 100px;
+    
+}
+.body{
+    position: relative;
+}
+
+button{
+    margin: 50px;
+}
+h2{
+    color: white;
+}
